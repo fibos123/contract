@@ -1,0 +1,35 @@
+{
+    "version": "eosio::abi/1.0",
+    "structs": [
+        {
+            "name": "json",
+            "base" : "",
+            "fields": [
+                {
+                    "name": "id",
+                    "type": "string"
+                },
+                {
+                    "name": "text",
+                    "type": "string"
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "update",
+            "type": "json",
+            "ricardian_contract": ""
+        }
+    ],
+    "tables": [
+        {
+            "name": "jsons",
+            "type": "json",
+            "index_type": "i64",
+            "key_names": ["id"],
+            "key_types": ["string"]
+        }
+    ]
+}
