@@ -53,7 +53,7 @@
         "child": [
           {"name": "FIBOS 安全节点", "icon": "fas fa-bong", "desc": "慢雾区推出的聚焦 FIBOS 生态安全网站", "url": "https://fibos.slowmist.io/"},
           {"name": "番茄 FO 实时动态", "desc": "关注 FO 实时动态，掌握通证持有者分布情况", "url": "https://h5.tomatowallet.cn/fibos/fo-market.html"},
-          {"name": "FIBOS BP", "desc": "FIBOS 主网节点监控", "url": "http://bp.fo/"},
+          {"name": "FIBOS BP", "desc": "FIBOS 主网节点监控", "url": "http://bp.fo/"}
         ]
       },
       {
